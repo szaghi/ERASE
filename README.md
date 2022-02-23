@@ -6,12 +6,13 @@ ERASE is an aluminium milled case for the Ergodone keyboard.
 
 This repository contains the versioned CAD files of ERASE and it is structured as following:
 
-´´´bash
+```bash
 ├── blend
 ├── klesh-stl
 ├── README.md
 └── stl
-´´´
+```
+
 #### blend directory
 
 Contains the Blender sources of the ERASE design.
