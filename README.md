@@ -9,7 +9,6 @@ This repository contains the versioned CAD files of ERASE and it is structured a
 ```bash
 ├── blend
 ├── klesh-stl
-├── README.md
 └── stl
 ```
 
